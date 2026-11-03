@@ -1,0 +1,319 @@
+{
+  "person": {
+    "name": "Sara Atito",
+    "title": "Dr",
+    "role": "Lecturer",
+    "role_short": "Lecturer",
+    "institution": "University of Surrey",
+    "centres": [
+      "Centre for Vision, Speech and Signal Processing (CVSSP)",
+      "Surrey Institute for People-Centred Artificial Intelligence (PAI)"
+    ],
+    "location": "Guildford, United Kingdom",
+    "email": "sara.atito@surrey.ac.uk",
+    "github_username": "Sara-Atito",
+    "website": "https://sara-atito.github.io/",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=1oHnCf0AAAAJ&hl=en"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Sara-Atito"
+      },
+      {
+        "label": "Surrey profile",
+        "url": "https://www.surrey.ac.uk/people/sara-atito"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saraatito/"
+      }
+    ]
+  },
+  "headline": "Learning more.\nWith less.",
+  "intro": "I develop data-efficient visual and multimodal foundation models that learn useful, structured representations with less supervision.",
+  "bio": [
+    "I am a Lecturer at the University of Surrey, jointly appointed in the Centre for Vision, Speech and Signal Processing (CVSSP) and the Surrey Institute for People-Centred Artificial Intelligence (PAI). Previously, I was a Surrey Future Fellow (2023–2026) and a Research Fellow (2021–2023).",
+    "My research focuses on self-supervised learning, visual foundation models and multimodal AI. I am particularly interested in how models discover meaningful concepts, connect information across modalities, and transfer to new tasks efficiently. I also work on applications in healthcare and scientific imaging."
+  ],
+  "research": [
+    {
+      "number": "01",
+      "title": "Visual foundation models",
+      "text": "Self-supervised learning, masked image modelling and concept-aware representations that reduce reliance on large labelled datasets.",
+      "tags": [
+        "Self-supervision",
+        "Concept learning"
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Multimodal understanding",
+      "text": "Connecting vision, audio and language through efficient adaptation, information flow and interpretable multimodal representations.",
+      "tags": [
+        "Vision · audio · language",
+        "Efficient adaptation"
+      ]
+    },
+    {
+      "number": "03",
+      "title": "AI for health and science",
+      "text": "Transferable visual representations for medical, microscopy and multi-channel images, with a focus on robustness across datasets.",
+      "tags": [
+        "Scientific imaging",
+        "Robust transfer"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "period": "2027",
+      "title": "CVPR Area Chair",
+      "text": "I have been appointed an Area Chair for CVPR 2027."
+    },
+    {
+      "period": "2026 / 27",
+      "title": "Leading open research at CVSSP",
+      "text": "I am the Lead Open Research Champion for CVSSP for the 2026/27 academic year."
+    },
+    {
+      "period": "2026",
+      "title": "New work at NeurIPS",
+      "text": "Our 2026 work includes DC-ViT and From Senses to Decisions, spanning multi-channel vision and multimodal perception."
+    },
+    {
+      "period": "2026",
+      "title": "CoLA at ICML",
+      "text": "CoLA explores cross-modal low-rank adaptation for multimodal downstream tasks."
+    }
+  ],
+  "publications": [
+    {
+      "year": 2026,
+      "venue": "NeurIPS",
+      "title": "DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images",
+      "category": "Vision",
+      "role": "PI and research lead",
+      "summary": "Research on visual representations for multi-channel images.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2603.14281"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "venue": "NeurIPS",
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "category": "Multimodal",
+      "role": "PI and research lead",
+      "summary": "Studying how auditory and visual information flows through multimodal large language models.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2606.10147"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "venue": "ICML",
+      "title": "CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks",
+      "category": "Multimodal",
+      "role": "Senior author and principal supervisor",
+      "summary": "Parameter-efficient adaptation that connects modalities through cross-modal low-rank pathways.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.mlr.press/v306/suharitdamrong26a.html"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/peterwisu/CoLA"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "venue": "CVPR",
+      "title": "Building Robust Vision Encoders for Cross-Dataset Evaluation in Immunofluorescent Microscopy",
+      "category": "Applied AI",
+      "role": "PI and research lead",
+      "summary": "Visual representation learning for robust cross-dataset evaluation in microscopy.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Marikkar_Building_Robust_Vision_Encoders_for_Cross-Dataset_Evaluation_in_Immunofluorescent_Microscopy_CVPR_2026_paper.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "venue": "ECCV",
+      "title": "From Gaze to Meaning: A Training-Free AI Agent for Unified Grounding and Explanation",
+      "category": "Multimodal",
+      "role": "Supervisory author and research lead",
+      "summary": "An agent-based approach to visual grounding and explanation without additional training.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2609.06208"
+        },
+        {
+          "label": "Project",
+          "url": "https://shayan137.github.io/gta-project-page/"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "venue": "ICLR",
+      "title": "Object-Centric Refinement for Enhanced Zero-Shot Segmentation",
+      "category": "Vision",
+      "role": "Co-supervisor",
+      "summary": "Object-centric representations for recognising and segmenting unseen categories.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "venue": "NeurIPS",
+      "title": "CG-SSL: Concept-Guided Self-Supervised Learning",
+      "category": "Vision",
+      "role": "First author and research lead",
+      "summary": "Learning structured visual representations by discovering and aligning concepts across views.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d4557f8bbe5f51f0f6b74fb8d74e9341-Abstract-Conference.html"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "IEEE/ACM TASLP",
+      "title": "ASiT: Local-Global Audio Spectrogram vIsion Transformer for Event Classification",
+      "category": "Multimodal",
+      "role": "First author and research lead",
+      "summary": "Self-supervised audio transformers that capture local and global spectrogram context.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TASLP.2024.3428908"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICIP",
+      "title": "GMML is All You Need",
+      "category": "Vision",
+      "role": "First author and research lead",
+      "summary": "Group masked model learning for data-efficient self-supervised vision transformers.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/ICIP49359.2023.10222150"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Sara-Atito/GMML"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "arXiv preprint",
+      "title": "SiT: Self-Supervised vIsion Transformer",
+      "category": "Vision",
+      "role": "First author",
+      "summary": "An early self-supervised vision transformer framework using masked image modelling.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2104.03602"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Sara-Atito/SiT"
+        }
+      ]
+    }
+  ],
+  "opensource": [
+    {
+      "title": "SiT",
+      "subtitle": "Self-Supervised Vision Transformer",
+      "text": "PyTorch code for self-supervised pretraining, fine-tuning and evaluation.",
+      "url": "https://github.com/Sara-Atito/SiT"
+    },
+    {
+      "title": "GMML",
+      "subtitle": "Group Masked Model Learning",
+      "text": "An open implementation of group masked model learning for vision transformers.",
+      "url": "https://github.com/Sara-Atito/GMML"
+    }
+  ],
+  "service": [
+    {
+      "period": "2027",
+      "title": "Area Chair",
+      "organisation": "CVPR"
+    },
+    {
+      "period": "2026 / 27",
+      "title": "Lead Open Research Champion",
+      "organisation": "CVSSP, University of Surrey"
+    },
+    {
+      "period": "Peer review",
+      "title": "Member",
+      "organisation": "EPSRC Peer Review College"
+    },
+    {
+      "period": "Community",
+      "title": "Conference reviewing",
+      "organisation": "NeurIPS · ICLR · CVPR · ECCV"
+    }
+  ],
+  "teaching": {
+    "text": "I supervise research in visual foundation models, multimodal learning, explainability, scientific imaging and agentic generation. My teaching connects core computing skills with current AI research.",
+    "courses": [
+      {
+        "name": "C++ and Object-Oriented Design",
+        "code": "EEE2047",
+        "detail": "Teaching, practical examples and laboratory support."
+      },
+      {
+        "name": "Applied Machine Learning",
+        "code": "EEEM068",
+        "detail": "Research-led material and a practical lab on self-supervised visual learning."
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "PhD in Computer Science",
+      "institution": "Sabancı University",
+      "year": "2021"
+    },
+    {
+      "degree": "Master’s in Computer Science",
+      "institution": "Nile University",
+      "year": "2014"
+    },
+    {
+      "degree": "BSc in Computer Science",
+      "institution": "Ain Shams University",
+      "year": "2011"
+    }
+  ],
+  "updated": "2026-10-31"
+}
