@@ -278,6 +278,11 @@
       "organisation": "EPSRC Peer Review College"
     },
     {
+      "period": "Academic service",
+      "title": "Early Career Researcher (ECR) Representative",
+      "organisation": "University of Surrey"
+    },
+    {
       "period": "Community",
       "title": "Conference reviewing",
       "organisation": "NeurIPS · ICLR · CVPR · ECCV"
@@ -289,7 +294,7 @@
       {
         "name": "C++ and Object-Oriented Design",
         "code": "EEE2047",
-        "detail": "Teaching, practical examples and laboratory support."
+        "detail": "Module Lead - Teaching, practical examples and laboratory support."
       },
       {
         "name": "Applied Machine Learning",
